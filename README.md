@@ -4,4 +4,4 @@ The Supply Chain Dashboard provides a comprehensive analysis of key performance 
 
 PROJECT DASHBOARD FILE:https://drive.google.com/file/d/1_T0TN-juZFegki__9sh1Pqw6ySDM3HSl/view?usp=sharing
 
-PROJECT PDF FILE:
+PROJECT PDF FILE:https://drive.google.com/file/d/1zdOx75cDxKgZZxn8deAiro-eMnHaTwzm/view?usp=sharing
